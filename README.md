@@ -9,6 +9,7 @@ To-do app é um aplicativo de gerenciamento e controle de tarefas, que pertime:
 ## Tecnologias utilizadas 🚀
 
 - ReactJS - Desenvolvimento de interface de usuário
+- CSS - Estilização de componentes
 
 ## Visualizar projeto 💻
 Com o node  e git devidamente instalados, crie uma pasta em qualquer diretório e execute os seguintes passos em seu terminal:
