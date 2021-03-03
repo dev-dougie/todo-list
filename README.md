@@ -3,6 +3,7 @@
 To-do app é um aplicativo de gerenciamento e controle de tarefas, que pertime:
 
 - Cadastrar novas tarefas
+- Editar tarefas
 - Marcar tarefas realizadas
 - Excluir tarefas
 
@@ -14,7 +15,7 @@ To-do app é um aplicativo de gerenciamento e controle de tarefas, que pertime:
 ## Visualizar projeto 💻
 Com o node  e git devidamente instalados, crie uma pasta em qualquer diretório e execute os seguintes passos em seu terminal:
 
-👉 Realize o clone deste repositório
+👉 Realize o clone deste repositório:
 ```sh
 git clone https://github.com/dev-dougie/todo-list
 ```
