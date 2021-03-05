@@ -1,6 +1,7 @@
+![Captura de Tela (16)](https://user-images.githubusercontent.com/61589484/110181559-da1bb400-7dea-11eb-97c8-8bda768518cf.png)
 ## To-Do App ✔️
 
-To-do app é um aplicativo de gerenciamento e controle de tarefas, que pertime:
+To-do app é um aplicativo de gerenciamento e controle de tarefas, que permite:
 
 - Cadastrar novas tarefas
 - Editar tarefas
@@ -48,5 +49,7 @@ yarn start
 
 Acesse o link: https://www.figma.com/file/n281drBLAf2l46Sh57NOSm/ToDo-List---Tech-Test?node-id=0%3A1
 
+## Deploy de demonstração:
+Acesse o link: https://dxdqf.csb.app/
 
 
